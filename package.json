@@ -4,7 +4,7 @@
   "description": "",
   "main": "passport-config.js",
   "scripts": {
-    "devStart": "nodemon server.js"
+    "test": "echo \"Error\" && exit 1"
   },
   "repository": {
     "type": "git",
